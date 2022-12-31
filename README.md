@@ -1,5 +1,5 @@
 # hsdstuck
 The official repository for all things HSDStuck.
 Of course, HSDStuck is the Homestuck fanventure based on the reread done in the Homestuck Discord in 2022.
-Everything except software licensed under CC BY-NC 4.0, available in ARTLICENSE.md.
+Everything except software licensed under the <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 Software, where applicable, licensed under the MIT License, available in SOFTWARELICENSE.md.
